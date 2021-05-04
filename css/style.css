@@ -180,6 +180,7 @@ body {
     border: 6px solid #0f47558f;
     background-color: transparent;
     transform: rotate(-45deg);
+    transition: none;
 }
 
 @media only screen and (max-width: 1025px){
@@ -254,7 +255,7 @@ body {
   }
 
   #btnscrolltop{
-    right: 20px;
+    right: 15px;
   }
 }
 
@@ -566,6 +567,7 @@ body {
 .footer .contact-icon{
   border-radius: 4px !important;
   background-color: transparent !important;
+  padding-bottom: 10px;
 }
 .footer img{
   margin-top: 10%;
