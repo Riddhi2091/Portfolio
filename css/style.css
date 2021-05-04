@@ -252,6 +252,7 @@ body {
 
   .footer .icon{
     text-align: center !important;
+    margin-bottom: 5px;
   }
 
   #btnscrolltop{
@@ -567,7 +568,6 @@ body {
 .footer .contact-icon{
   border-radius: 4px !important;
   background-color: transparent !important;
-  padding-bottom: 10px;
 }
 .footer img{
   margin-top: 10%;
